@@ -1,0 +1,40 @@
+# macOS / OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+build/
+dist/
+
+# Logs / temp
+*.log
+*.tmp
+.cache/
+
+# User-generated review runs
+# (Users will create their own screenshot dirs and reports —
+#  these live in the user's local copy, not the repo.)
+# Uncomment if you want to ignore by default:
+# screenshots/
+# *-current-state-*.md
+# *-recommendations-*.md
+# *-teardown-*.pdf
+
+# Keep the Duolingo sample (samples/duolingo-onboarding/) — that's
+# distributed as a calibration reference.

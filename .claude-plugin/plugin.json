@@ -1,0 +1,11 @@
+{
+  "name": "pai-teardown",
+  "version": "1.1.0",
+  "description": "Framework-grounded app teardown system. Run structured UX audits on any mobile or web app with screenshot evidence, framework-cited scoring, India-aware benchmarks, and a stakeholder-ready PDF.",
+  "author": {
+    "name": "Palash Somani",
+    "url": "https://www.linkedin.com/in/palash-somani-artificial-intelligence/"
+  },
+  "homepage": "https://www.linkedin.com/in/palash-somani-artificial-intelligence/",
+  "keywords": ["product", "ux", "teardown", "review", "audit", "mobile", "pdf", "frameworks", "india"]
+}
